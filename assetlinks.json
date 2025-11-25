@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.lavagnou.burpingtimer.twa",
+        "sha256_cert_fingerprints": ["21:B5:D9:EC:35:E2:1C:DF:62:CC:4E:65:AC:78:FB:C2:FD:49:95:FD:CB:95:D5:C8:A1:C4:19:9F:31:27:E1:AE"]
+      }
+    }]
